@@ -2802,7 +2802,7 @@
 
   (footprint "general:SAMTEC_SHF-103-01-L-D-SM" (layer "F.Cu")
     (tstamp 43719906-d4c9-4d43-a29d-7a3231d86c5d)
-    (at 117.348 85.4705)
+    (at 132.588 82.2965)
     (property "MANUFACTURER" "Samtec")
     (property "Manufacturer_Part_Number" "SHF-103-01-L-D-SM")
     (property "PARTREV" "R")
