@@ -1,0 +1,7 @@
+template|template.kicad_sch||template|template
+mcu|mcu.kicad_sch||mcu|template-mcu
+power|power.kicad_sch||power|template-mcu-power
+esp32|esp32.kicad_sch||esp32|template-mcu-esp32
+io|io.kicad_sch||io|template-mcu-io
+ethernet|ethernet.kicad_sch||ethernet|template-mcu-ethernet
+poe|poe.kicad_sch||poe|template-mcu-poe
